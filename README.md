@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+We are currently working on simplifying application development(a.k.a. no-code platform). 
+
+We are very excited with the possiblities that can be achieved. 
+
+if you are interested to join us / keen to pitch in please reach us at hello@appt.dev 
 <!--
 **vk-l/vk-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
